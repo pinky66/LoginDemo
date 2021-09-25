@@ -21,3 +21,6 @@
 ******************************************************************************/
 
 just a test for modification
+
+
+how to observe the server log 
