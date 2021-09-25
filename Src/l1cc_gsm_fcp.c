@@ -24,3 +24,5 @@ just a test for modification
 
 
 how to observe the server log 
+
+Q1, git 如何添加用户/用户组，以及其权限
